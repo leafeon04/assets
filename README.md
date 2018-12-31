@@ -1,7 +1,3 @@
-assets
-======
-assets for arkizenty's projects
-
 directorys
 ==========
 <pre>
