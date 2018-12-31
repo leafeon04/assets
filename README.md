@@ -2,6 +2,10 @@ assets
 ======
 assets for arkizenty's projects
 
+directory
+=========
+<a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
+
 <meta content="arkizenty's assets" property="og:title">
 <meta content="assets for arkizenty's projects" property="og:description">
 <meta content="arkizenty's assets" property="og:site_name">
