@@ -1,4 +1,4 @@
-assets
+assets/
 ======
 assets for arkizenty's projects
 
