@@ -1,7 +1,7 @@
 arkizenty's assets
 ==================
 <pre>
-<a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
+<a href="https://arkizenty.github.io/assets/arki.py/">assets/arki.py</a>
 <a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
 </pre>
 
