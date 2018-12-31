@@ -4,7 +4,10 @@ assets for arkizenty's projects
 
 directorys
 ==========
+<pre>
 <a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
+<a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
+</pre>
 
 <meta content="arkizenty's assets" property="og:title">
 <meta content="assets for arkizenty's projects" property="og:description">
