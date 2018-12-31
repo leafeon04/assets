@@ -1,6 +1,3 @@
-<a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
-==========================================================================
-
 <a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/screenshot1.png">assets/finfetch/screenshot1.png</a>
 
 <meta content="arkizenty's assets" property="og:title">
