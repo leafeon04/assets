@@ -1,5 +1,5 @@
-directorys
-==========
+arkizenty's assets
+==================
 <pre>
 <a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
 <a href="https://arkizenty.github.io/assets/finfetch/">assets/finfetch</a>
