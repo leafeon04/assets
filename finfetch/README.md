@@ -1,8 +1,5 @@
 assets/finfetch
-===============
-assets for finfetch
 
-`Files:`
 <a href="https://raw.githubusercontent.com/arkizenty/assets/master/finfetch/screenshot1.png">screenshot1.png</a>
 
 <meta content="arkizenty's assets" property="og:title">
